@@ -1,14 +1,9 @@
-                                                                      ### Hello! 👋, I'm Robert Gripshover
+                                                     Hello! 👋, I'm Robert Gripshover
+                                    Software Engineer | SQL Server Data Conversion | Full-Stack Web Developer
+🔭 I’m currently working at Pye-Barker Fire and Safety as a Software Enginner and Data Converstion Specialist using SQL Server
 
+🌱 I’m currently learning digging deeper into React and NextJS
 
+📫 How to reach me RobertGrips@gmail.com
 
-<!--
-**Robertgripshover/RobertGripshover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working at Pye-Barker Fire and Safety as a Software Enginner and Data Convertion SQL Server Specialist 
-- 💬 Ask me about my BeautifulCoastPage project! I want to showcase the beautiful coastal town I live in
-- 📫 How to reach me: robertgrips@gmail.com
-- ⚡ Fun fact: I love weightlifting and growing bonzi trees! 🌲
--->
+⚡ Fun fact I love weightlifting and growing bonzi tress! 🌲
